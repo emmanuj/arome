@@ -1,3 +1,13 @@
 let length = funtion(lst)-> List.length(lst);;
 
+let distanceAllVectors2 = function(v, vset)->();;
 
+let t1NNR = function(distlist)-> ();;
+
+let vclass = function(avect) -> ();;
+
+let closest = function((min, loc),trset) -> ();;
+
+let closest_class = function((min, loc),trset) -> ();;
+
+let classNNR = function(x, ts)->();;
